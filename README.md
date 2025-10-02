@@ -31,6 +31,9 @@ Network traffic analysis is essential for understanding the behavior of devices 
 
 2. **Install dependencies**
    - Ensure the Requirements are installed.
+     ```bash
+     pip install -r requirements.txt
+     ```
    - Run the Python script or the Jupyter Notebook.
    - Or use `conda` as an `environment.yml` file is provided:
      ```bash
